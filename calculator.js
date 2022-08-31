@@ -102,7 +102,7 @@ const mapaTeclado = {
     Enter: 'equality',
     Backspace: 'backspace',
     c: 'clearDisplay',
-    Escape: 'clearCalculus',
+    Espace: 'clearCalculus',
     ',': 'decimal',
 };
 
